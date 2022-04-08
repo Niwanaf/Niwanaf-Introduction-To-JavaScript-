@@ -13,3 +13,7 @@ const numberOfDays; // declaration statement
 
 //Expression merupakan kode yang menghasilkan nilai
 //Statement menunjukan aksi yang dilakukan
+
+//Comment
+//comment merupakan sebuah komentar dan tidak akan dieksekusi
+//Tanda comment adalah (//) untuk satu baris dan (/*...*/)untuk beberapa baris
